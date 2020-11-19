@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5BzbOWGTd0ISsAZQcvoa0+21fs28Uyoa2mCxGQZmKeMO2+skXCU/boga0w/ngMbQh16DXtT2DdjvgMpL0fwGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin\\Grid\\Grid\\Grid.iOS\\Grid.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
